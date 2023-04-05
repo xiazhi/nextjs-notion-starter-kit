@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: New Life New World',
+  name: 'New Life New World',
   domain: 'blog.bai2023.win',
   author: 'Xia Zhi',
 
